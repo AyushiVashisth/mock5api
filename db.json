@@ -1,0 +1,168 @@
+{
+  "freelancers": [
+    {
+      "id": 1,
+      "name": "John Doe",
+      "email": "john@example.com",
+      "password": "password",
+      "profession": "Web Developer",
+      "skills": ["HTML", "CSS", "JavaScript"],
+      "hourly_rate": 25,
+      "profile_picture": "https://expertphotography.b-cdn.net/wp-content/uploads/2020/08/profile-photos-4.jpg",
+      "isBooked": false
+    },
+    {
+      "id": 2,
+      "name": "Jane Smith",
+      "email": "jane@example.com",
+      "password": "password",
+      "profession": "Graphic Designer",
+      "skills": ["Photoshop", "Illustrator"],
+      "hourly_rate": 30,
+      "profile_picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjQWdB4gI3iz4jjFD7T1lSrmzWngEWLzDU2QxHA3ppHjg3LUJUok5jnTZFvNGp2Jpzl2M&usqp=CAU",
+      "isBooked": false
+    },
+    {
+      "name": "ashu",
+      "email": "ashu@gmail.com",
+      "password": "ashu",
+      "profession": "Web Developer",
+      "skills": ["java", "css", "html"],
+      "profile_picture": "https://media.istockphoto.com/id/1163294201/photo/smiling-confident-businesswoman-posing-with-arms-folded.jpg?s=612x612&w=0&k=20&c=9SY62tujbyx46_NbVH6pYAauliGvM0ixcaEfup9y_kU=",
+      "hourly_rate": 4,
+      "id": 3,
+      "isBooked": false
+    },
+    {
+      "name": "megha",
+      "email": "megha@gmail.com",
+      "password": "megha",
+      "profession": "Graphic Designer",
+      "skills": ["java", "php", "python"],
+      "profile_picture": "https://burst.shopifycdn.com/photos/professional-woman.jpg?width=373&format=pjpg&exif=1&iptc=1",
+      "hourly_rate": 5,
+      "id": 4,
+      "isBooked": false
+    },
+    {
+      "id": 5,
+      "name": "Katrine Benzies",
+      "email": "kbenzies0@clickbank.net",
+      "password ": "Junior Executive",
+      "profession": "Web Developer",
+      "skills": ["HTML", "CSS", "JavaScript"],
+      "hourly_rate": 1,
+      "profile_picture": "https://expertphotography.b-cdn.net/wp-content/uploads/2020/08/profile-photos-4.jpg",
+      "isBooked": false
+    },
+    {
+      "id": 2,
+      "name": "Robena Whyatt",
+      "email": "rwhyatt1@infoseek.co.jp",
+      "password ": "Structural Engineer",
+      "profession": "Web Developer",
+      "skills": ["HTML", "CSS", "JavaScript"],
+      "hourly_rate": 10,
+      "profile_picture": "https://expertphotography.b-cdn.net/wp-content/uploads/2020/08/profile-photos-4.jpg",
+      "isBooked": false
+    },
+    {
+      "id": 6,
+      "name": "Langsdon Neathway",
+      "email": "lneathway2@barnesandnoble.com",
+      "password ": "Compensation Analyst",
+      "profession": "Web Developer",
+      "skills": ["HTML", "CSS", "JavaScript"],
+      "hourly_rate": 3,
+      "profile_picture": "https://expertphotography.b-cdn.net/wp-content/uploads/2020/08/profile-photos-4.jpg",
+      "isBooked": false
+    },
+    {
+      "id": 7,
+      "name": "Leann Lozano",
+      "email": "llozano3@rambler.ru",
+      "password ": "Research Nurse",
+      "profession": "Graphic Designer",
+      "skills": ["HTML", "CSS", "JavaScript"],
+      "hourly_rate": 4,
+      "profile_picture": "https://static.vecteezy.com/system/resources/thumbnails/000/885/386/small/portrait-of-a-young-african-american-business-woman.jpg",
+      "isBooked": false
+    },
+    {
+      "id": 8,
+      "name": "Chickie Underwood",
+      "email": "cunderwood4@foxnews.com",
+      "password ": "Programmer IV",
+      "profession": "Graphic Designer",
+      "skills": ["HTML", "CSS", "JavaScript"],
+      "hourly_rate": 4,
+      "profile_picture": "https://media.istockphoto.com/id/478699346/photo/young-business-woman-in-modern-office.jpg?s=170667a&w=0&k=20&c=CKQTzPjg81MBbobQVMH1d4pdiY5X9NjYfghEaV2vkFI=",
+      "isBooked": false
+    },
+    {
+      "id": 9,
+      "name": "Babette Melesk",
+      "email": "bmelesk5@icio.us",
+      "password ": "Software Consultant",
+      "profession": "Graphic Designer",
+      "skills": ["HTML", "CSS", "JavaScript"],
+      "hourly_rate": 6,
+      "profile_picture": "https://static.vecteezy.com/system/resources/thumbnails/000/885/386/small/portrait-of-a-young-african-american-business-woman.jpg",
+      "isBooked": false
+    },
+    {
+      "id": 10,
+      "name": "Rosalyn Arent",
+      "email": "rarent6@hubpages.com",
+      "password ": "Marketing Manager",
+      "profession": "Student",
+      "skills": ["HTML", "CSS", "JavaScript"],
+      "hourly_rate": 6,
+      "profile_picture": "https://media.istockphoto.com/id/478699346/photo/young-business-woman-in-modern-office.jpg?s=170667a&w=0&k=20&c=CKQTzPjg81MBbobQVMH1d4pdiY5X9NjYfghEaV2vkFI=",
+      "isBooked": false
+    },
+    {
+      "id": 11,
+      "name": "Lilas Brixey",
+      "email": "lbrixey7@usa.gov",
+      "password ": "Payment Adjustment Coordinator",
+      "profession": "Student",
+      "skills": ["HTML", "CSS", "JavaScript"],
+      "hourly_rate": 8,
+      "profile_picture": "https://static.vecteezy.com/system/resources/thumbnails/000/885/386/small/portrait-of-a-young-african-american-business-woman.jpg",
+      "isBooked": false
+    },
+    {
+      "id": 12,
+      "name": "Hastie Bowart",
+      "email": "hbowart8@google.pl",
+      "password ": "VP Quality Control",
+      "profession": "Student",
+      "skills": ["HTML", "CSS", "JavaScript"],
+      "hourly_rate": 8,
+      "profile_picture": "https://media.istockphoto.com/id/478699346/photo/young-business-woman-in-modern-office.jpg?s=170667a&w=0&k=20&c=CKQTzPjg81MBbobQVMH1d4pdiY5X9NjYfghEaV2vkFI=",
+      "isBooked": false
+    },
+    {
+      "id": 13,
+      "name": "Keely Arstingall",
+      "email": "karstingall9@illinois.edu",
+      "password ": "Account Representative I",
+      "profession": "Student",
+      "skills": ["HTML", "CSS", "JavaScript"],
+      "hourly_rate": 3,
+      "profile_picture": "https://media.istockphoto.com/id/494590560/photo/african-american-business-woman-wearing-suit.jpg?s=612x612&w=0&k=20&c=IU7dbJTB0h8F5TiqwzmzCRJXxGF-7tPu9Vhcrvp2eno=",
+      "isBooked": false
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
